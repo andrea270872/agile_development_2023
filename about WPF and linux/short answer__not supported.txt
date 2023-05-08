@@ -1,0 +1,7 @@
+I'm sorry, read 
+   https://certsimple.com/can-you-run-wpf-on-linux/
+for details, but it looks like MS is not doing a great job in supporting WPF on other platforms :(
+
+You might want to try an alternative GUI library for LINUX, like:
+   https://www.mono-project.com/docs/gui/gtksharp/beginners-guide/
+which is a "classic" and it is very similar to the way WPF works...
